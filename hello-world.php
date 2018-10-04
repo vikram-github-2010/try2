@@ -6,6 +6,9 @@
 
 echo 'Hello world from Cloud9!';
 echo "vikram";
+
+echo 'Hello world from Cloud9!';
+echo "vikram";
 ?>
 </body>
 </html>
